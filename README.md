@@ -20,16 +20,19 @@ Este é um projeto acadêmico desenvolvido para a disciplina de Otimização. A 
 
 ## Estrutura do Projeto
 
+```
+Projeto-Otimizacao/
 │
 ├── app/
-│ ├── templates/
-│ ├── utils/
-│ └── routes.py
+│   ├── templates/
+│   ├── utils/
+│   └── routes.py
 │
 ├── config.py
 ├── run.py
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Como Executar
