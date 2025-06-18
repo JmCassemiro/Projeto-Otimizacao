@@ -17,6 +17,7 @@ Este é um projeto acadêmico desenvolvido para a disciplina de Otimização. A 
 - Flask
 - Jinja2
 - HTML/CSS (com Bootstrap)
+- Biblioteca Scypy utilizando a função Linprog
 
 ## Estrutura do Projeto
 
